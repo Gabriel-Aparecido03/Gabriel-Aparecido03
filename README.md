@@ -18,6 +18,9 @@
    - **HTML** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
    - **CSS** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
    - **React** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
+   - **Sql** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
+   - **Python** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
+   - **React Native** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
   
  ## 💻 Minha Stack : 
    Tecnologias que mais uso no meu dia a dia
