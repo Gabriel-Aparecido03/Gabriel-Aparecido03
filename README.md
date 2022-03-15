@@ -6,7 +6,7 @@
   ## 👀 Sobre Mim :
    - *Me chamo Gabriel Aparecido da Silva*
    - *Tenho 18 anos* 
-   - *Sou em Sorocaba,SP*
+   - *Sou de Sorocaba,SP*
    - *Atualmente focado no Front End* 
    - *Curso Análise e Desenvolvimento de Sistema,na Facens*
   
