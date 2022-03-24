@@ -21,6 +21,7 @@
    - **Sql** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
    - **Python** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
    - **React Native** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
+   - **Java** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
   
  ## 💻 Minha Stack : 
    Tecnologias que mais uso no meu dia a dia
