@@ -1,4 +1,4 @@
-<h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/JUq9ohFN2eSLJllrkd/giphy.gif" width="50px"><h1/>
+<h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.gif" width="50px"><h1/>
 
  <img align="center" src="https://ipcsdemo.files.wordpress.com/2016/03/jarvis-iron-man.gif?w=810&h=241" width="900px">
   
@@ -7,21 +7,8 @@
    - *Me chamo Gabriel Aparecido da Silva*
    - *Tenho 18 anos* 
    - *Sou de Sorocaba,SP*
-   - *Atualmente focado no Front End* 
+   - *Sou desenvolvedor front-end na KHANUM* 
    - *Curso Análise e Desenvolvimento de Sistema,na Facens*
-  
- ## 📃 Minhas Habilidades :
-   - **Inglês** <img src="https://media.giphy.com/media/kgwQ2s11mTtq4R9Lvl/giphy.gif" width="110px">
-   - **Espanhol** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
-   - **Javascript** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
-   - **Typescript** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
-   - **HTML** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
-   - **CSS** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
-   - **React** <img src="https://media.giphy.com/media/Vobs3cUXbM3OIVhZev/giphy.gif" width="110px">
-   - **Sql** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
-   - **Python** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
-   - **React Native** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
-   - **Java** <img src="https://media.giphy.com/media/i3SYRD2ktNeg709bsk/giphy.gif" width="110px">
   
  ## 💻 Minha Stack : 
    Tecnologias que mais uso no meu dia a dia
