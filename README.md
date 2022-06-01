@@ -1,6 +1,8 @@
-<h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="10px"><h1/>
+<h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"><h1/>
 
- <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="10px">
+ <div align="center">
+  <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="900px" height="500px" >
+ </div>
   
   
   ## 👀 Sobre Mim :
@@ -13,12 +15,12 @@
  ## 💻 Minha Stack : 
    Tecnologias que mais uso no meu dia a dia
    <div align="center">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40px">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40px">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px">
-    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="40px">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40px">
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40px">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40px" height="40px">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40px" height="40px">
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px" height="40px">
+    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="40px" height="40px">
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40px" height="40px">
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"width="40px" height="40px">
   </div> 
      
   ## 📊 Minhas Estatísticas :
