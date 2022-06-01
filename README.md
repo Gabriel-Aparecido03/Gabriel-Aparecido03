@@ -1,6 +1,6 @@
 <h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><h1/>
 
- <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="100px">
+ <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="10px">
   
   
   ## 👀 Sobre Mim :
