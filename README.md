@@ -1,7 +1,7 @@
 <h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"><h1/>
 
  <div align="center">
-  <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="900px" height="500px" >
+  <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="700px" height="400px" >
  </div>
   
   
