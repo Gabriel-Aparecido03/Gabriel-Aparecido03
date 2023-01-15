@@ -7,8 +7,6 @@
   
   ## 👀 Sobre Mim :
    - *Me chamo Gabriel Aparecido da Silva*
-   - *Tenho 18 anos* 
-   - *Sou de Sorocaba,SP*
    - *Sou desenvolvedor front-end na KHANUM* 
    - *Curso Análise e Desenvolvimento de Sistema,na Facens*
   
