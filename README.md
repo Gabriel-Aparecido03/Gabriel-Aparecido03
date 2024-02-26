@@ -1,38 +1,9 @@
-<h1 align="center"> Seja Bem-Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"><h1/>
+### Sobre mim : 
 
- <div align="center">
-  <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" width="700px" height="400px" >
- </div>
-  
-  
-  ## 👀 Sobre Mim :
-   - *Me chamo Gabriel Aparecido da Silva*
-   - *Sou desenvolvedor front-end na KHANUM* 
-   - *Curso Análise e Desenvolvimento de Sistema,na Facens*
-  
- ## 💻 Minha Stack : 
-   Tecnologias que mais uso no meu dia a dia
-   <div align="center">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40px" height="40px">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40px" height="40px">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px" height="40px">
-    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="40px" height="40px">
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40px" height="40px">
-    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"width="40px" height="40px">
-  </div> 
-     
-  ## 📊 Minhas Estatísticas :
-     
-  <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aparecido03&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Aparecido03&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  </div>
-  
-  ##  🗣️ Bora Conversar! : 
-  <div align="center">
-    <a href="https://twitter.com/gbr_aparecido" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-     <a href="https://github.com/Gabriel-Aparecido03"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-     <a href="https://www.instagram.com/__gabriel.ap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-       <a href="mailto:gabriel.aparecido.silva03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-       <a href="https://www.linkedin.com/in/gabriel-aparecido-da-silva-a85099228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+Me chamo Gabriel Aparecido , atualmente sou programador front-end na <a href="https://www.linkedin.com/company/khanumconsultoria/mycompany/">Khanum.</a> </br>
+
+- Ja recebi uma premiação em um Hackthon promovido pela empresa , onde tive destaque em habilidade como : resolução de problema , trabalho em equipe , habilidades técnicas e boa comunição . <a href="https://www.linkedin.com/posts/gabriel-aparecido-dev_ontem-foi-um-dia-09012023-muito-especial-activity-7018645052734255106-3hUg?utm_source=share&utm_medium=member_desktop">link</a>
+- Ja atuei como desenvolvedor Mobile , em um projeto real .
+- Atuou desenvolvendo features , resolução de bug e melhora de perfomance , em um projeto de grande impactos ( + 250 multinacionais cadastras ).
+- Atualmente estou me aprofundando me conhecimento em React , Node e React Native .
+- Sou apaixonado por resolver problemas usando a tecnologia .
