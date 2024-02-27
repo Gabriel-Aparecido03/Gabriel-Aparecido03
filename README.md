@@ -5,18 +5,18 @@ Ja recebi uma premiação em um Hackthon promovido pela empresa , onde tive dest
 
 Minhas principais habilidades e qualificações:
 
- Experiência em desenvolvimento de front-end com ReactJS, Typescript e React Native 
- Bom conhecimento de JavaScript, HTML5, CSS3 e práticas de desenvolvimento web responsivo
- Boa compreensão dos princípios de de UX/UI
- Excelentes habilidades de comunicação e capacidade comprovada de trabalhar em equipe .
- Apaixonado em resolver problema utilizando a tecnologia .
+ Experiência em desenvolvimento de front-end com ReactJS, Typescript e React Native . </br>
+ Bom conhecimento de JavaScript, HTML5, CSS3 e práticas de desenvolvimento web responsivo . </br>
+ Boa compreensão dos princípios de de UX/UI . </br>
+ Excelentes habilidades de comunicação e capacidade comprovada de trabalhar em equipe . </br>
+ Apaixonado em resolver problema utilizando a tecnologia . </br>
 
 Conhecimentos Adicionais:
 
- Bom conhecimento em hooks e otimização de componentes (ex: useMemo, useCallback)
- Conhecimento em Patterns em React 
- Conheicmento de Java
- Conhecimento em Node JS ( Express , Fastify e NestJS)
- Conhecimento com testes usando React-testing-library, jest ,vitest , Cypress e Playwright .
- Sólido conhecimento sobre a hierarquia dos elementos HTML e sua utilização correta
+ Bom conhecimento em hooks e otimização de componentes (ex: useMemo, useCallback) . </br>
+ Conhecimento em Patterns em React . </br>
+ Conheicmento de Java . </br>
+ Conhecimento em Node JS ( Express , Fastify e NestJS) . </br>
+ Conhecimento com testes usando React-testing-library, jest ,vitest , Cypress e Playwright . </br>
+ Sólido conhecimento sobre a hierarquia dos elementos HTML e sua utilização correta . </br>
 
