@@ -1,9 +1,22 @@
 ### Sobre mim : 
 
 Me chamo Gabriel Aparecido , atualmente sou programador front-end na <a href="https://www.linkedin.com/company/khanumconsultoria/mycompany/">Khanum.</a> </br>
+Ja recebi uma premiação em um Hackthon promovido pela empresa , onde tive destaque em habilidade como : resolução de problema , trabalho em equipe , habilidades técnicas e boa comunição . <a href="https://www.linkedin.com/posts/gabriel-aparecido-dev_ontem-foi-um-dia-09012023-muito-especial-activity-7018645052734255106-3hUg?utm_source=share&utm_medium=member_desktop">link do post no linkedin</a></br>
 
-- Ja recebi uma premiação em um Hackthon promovido pela empresa , onde tive destaque em habilidade como : resolução de problema , trabalho em equipe , habilidades técnicas e boa comunição . <a href="https://www.linkedin.com/posts/gabriel-aparecido-dev_ontem-foi-um-dia-09012023-muito-especial-activity-7018645052734255106-3hUg?utm_source=share&utm_medium=member_desktop">link</a>
-- Ja atuei como desenvolvedor Mobile , em um projeto real .
-- Atuou desenvolvendo features , resolução de bug e melhora de perfomance , em um projeto de grande impactos ( + 250 multinacionais cadastras ).
-- Atualmente estou me aprofundando me conhecimento em React , Node e React Native .
-- Sou apaixonado por resolver problemas usando a tecnologia .
+Minhas principais habilidades e qualificações:
+
+ Experiência em desenvolvimento de front-end com ReactJS, Typescript e React Native 
+ Bom conhecimento de JavaScript, HTML5, CSS3 e práticas de desenvolvimento web responsivo
+ Boa compreensão dos princípios de de UX/UI
+ Excelentes habilidades de comunicação e capacidade comprovada de trabalhar em equipe .
+ Apaixonado em resolver problema utilizando a tecnologia .
+
+Conhecimentos Adicionais:
+
+ Bom conhecimento em hooks e otimização de componentes (ex: useMemo, useCallback)
+ Conhecimento em Patterns em React 
+ Conheicmento de Java
+ Conhecimento em Node JS ( Express , Fastify e NestJS)
+ Conhecimento com testes usando React-testing-library, jest ,vitest , Cypress e Playwright .
+ Sólido conhecimento sobre a hierarquia dos elementos HTML e sua utilização correta
+
