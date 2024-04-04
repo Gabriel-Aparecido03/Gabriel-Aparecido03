@@ -1,22 +1,19 @@
 ### Sobre mim : 
+My name is Gabriel Aparecido, and I'm currently a front-end programmer at Khanum. I've received an award in a Hackathon promoted by the company, where I stood out in skills such as problem-solving, teamwork, technical abilities, and good communication. 
 
-Me chamo Gabriel Aparecido , atualmente sou programador front-end na <a href="https://www.linkedin.com/company/khanumconsultoria/mycompany/">Khanum.</a> </br>
-Ja recebi uma premiação em um Hackthon promovido pela empresa , onde tive destaque em habilidade como : resolução de problema , trabalho em equipe , habilidades técnicas e boa comunição . <a href="https://www.linkedin.com/posts/gabriel-aparecido-dev_ontem-foi-um-dia-09012023-muito-especial-activity-7018645052734255106-3hUg?utm_source=share&utm_medium=member_desktop">link do post no linkedin</a></br>
+My main skills and qualifications include:
 
-Minhas principais habilidades e qualificações:
+- Experience in front-end development with ReactJS, Typescript, and React Native.
+- Good knowledge of JavaScript, HTML5, CSS3, and responsive web development practices.
+- Good understanding of UX/UI principles.
+- Excellent communication skills and proven ability to work in teams.
+- Passionate about solving problems using technology.
 
- Experiência em desenvolvimento de front-end com ReactJS, Typescript e React Native . </br>
- Bom conhecimento de JavaScript, HTML5, CSS3 e práticas de desenvolvimento web responsivo . </br>
- Boa compreensão dos princípios de de UX/UI . </br>
- Excelentes habilidades de comunicação e capacidade comprovada de trabalhar em equipe . </br>
- Apaixonado em resolver problema utilizando a tecnologia . </br>
+Additional Skills:
 
-Conhecimentos Adicionais:
-
- Bom conhecimento em hooks e otimização de componentes (ex: useMemo, useCallback) . </br>
- Conhecimento em Patterns em React . </br>
- Conheicmento de Java . </br>
- Conhecimento em Node JS ( Express , Fastify e NestJS) . </br>
- Conhecimento com testes usando React-testing-library, jest ,vitest , Cypress e Playwright . </br>
- Sólido conhecimento sobre a hierarquia dos elementos HTML e sua utilização correta . </br>
-
+- Good knowledge of hooks and component optimization (e.g., useMemo, useCallback).
+- Knowledge of React Patterns.
+- Knowledge of Java.
+- Knowledge of Node.js (Express, Fastify, and NestJS).
+- Experience with testing using React-testing-library, Jest, Vitest, Cypress, and Playwright.
+- Solid understanding of HTML element hierarchy and its correct usage.
